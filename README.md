@@ -15,6 +15,11 @@ Assuming you have *node* and *npm* properly installed on your machine.
 
 >"**nodemon**. For use during development of a node.js based application. nodemon will watch the files in the directory in which nodemon was started, and if any files change, nodemon will automatically restart your node application. nodemon does not require any changes to your code or method of development." 
 >
+
+# Authors
+- [Kamal Hamoud](https://github.com/kamalh16)
+- [Moe Hamoud](https://github.com/MoeHamoud)
+
 # Sources
 - https://stackoverflow.com/a/40090802/2340813
 - https://www.npmjs.com/package/nodemon
