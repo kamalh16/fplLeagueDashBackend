@@ -1,3 +1,6 @@
+# Visual Studio Workspace
+*.code-workspace
+
 # Logs
 logs
 *.log
